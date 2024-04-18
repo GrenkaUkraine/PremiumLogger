@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumLogger", "PremiumLog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumLoggerTest", "PremiumLoggerTest\PremiumLoggerTest.csproj", "{F077E613-A528-44CA-A994-2B6B6CD2581F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C09ABAA9-0E39-46C6-A1FE-151016D84D24}"
+	ProjectSection(SolutionItems) = preProject
+		docs\getting-started.md = docs\getting-started.md
+		LICENSE.txt = LICENSE.txt
+		docs\log-color-class.md = docs\log-color-class.md
+		docs\log-level-enum.md = docs\log-level-enum.md
+		docs\methods.md = docs\methods.md
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
